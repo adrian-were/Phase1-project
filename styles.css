@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    background-color: cadetblue;
+    margin-bottom: 10px;
+}
+
+.first {
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.second {
+    font-style: italic;
+}
+
+form{
+    padding: 20px;
+}
+
+input{
+    padding: 10px;
+    background-color: darksalmon;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#hotel-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
