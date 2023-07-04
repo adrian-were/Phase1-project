@@ -1,4 +1,4 @@
-// DOM Manipulation 
+// DOM Manipulation for displayin hotel names
 function hotelNames(resorts){
     let grab = document.getElementById("hotel-names")
 
@@ -24,3 +24,15 @@ document.addEventListener('DOMContentLoaded',(e) => {
     fetchHotelNames()
     e.preventDefault()
 })
+
+// DOM Manipulation for displaying hotel details
+function hotelDetails(resort){
+    let other = document.querySelector("#hotel-details")
+    other.innerHTML = `
+    <p>${resort.name}</p>
+    <img src="${resort.image}" alt="hotel picture" />
+    <p> <em>Location</em> ${resort.location}</p>
+    <p> <em>Contact</em> ${resort.phone}</p>
+    <p> <em>Cost per night</em> Ksh ${resort.cost}</p>
+    `
+}
