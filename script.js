@@ -68,3 +68,17 @@ getForm.addEventListener('submit', e => {
    getForm.reset()
 })
 
+// displaying form details on the webpage
+function postNewUserData (formObject){
+    fetch('http://localhost:3000/hotels',{
+        method: 'POST',
+        headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json"
+        },
+        body : JSON.stringify(formObject)
+
+    })
+    .then(res => res.json())
+    .then(data => console.log(data))
+}
