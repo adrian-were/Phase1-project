@@ -1,5 +1,6 @@
 body{
-    background-color: aquamarine;
+    background-color: coral;
+    height: fit-content;
 }
 
 header{
@@ -8,6 +9,13 @@ header{
     padding: 20px;
     background-color: cadetblue;
     margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table{
+    margin-left: 10px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .first {
@@ -21,7 +29,7 @@ header{
 }
 
 form{
-    padding: 20px;
+    margin-bottom: 25px;
 }
 
 input{
@@ -31,13 +39,44 @@ input{
     border-radius: 10px;
 }
 
+/* input[type="submit"]{
+    position: absolute;
+    left: 80px;
+    margin-top: 10px;
+} */
+
+/* remember to style #hotel-names and .place */
+.rear{
+    height: 100vh;
+}
+
+.place {
+    font-size: larger;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    width: 300px;
+    list-style: decimal;
+    padding: 15px;
+}
+
+.place:hover{
+    cursor: pointer;
+    background-color: chocolate;
+}
+
+em{
+    font-weight: 800;
+}
+
 #hotel-details {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  margin-top: 50px;
+  position: absolute;
+  left: 35%;
+  top: 40%;
 }
 
 img {
-    width: 600px;
-    height: 600px;
+    width: 700px;
+    height: 500px;
 }
