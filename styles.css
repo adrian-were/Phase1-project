@@ -1,13 +1,14 @@
 body{
-    background-color: coral;
+    background-color: darkkhaki;
     height: fit-content;
 }
 
 header{
+    color: cornsilk;
     text-align: center;
     text-transform: uppercase;
     padding: 20px;
-    background-color: cadetblue;
+    background-color:darkseagreen;
     margin-bottom: 10px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -39,13 +40,10 @@ input{
     border-radius: 10px;
 }
 
-/* input[type="submit"]{
-    position: absolute;
-    left: 80px;
-    margin-top: 10px;
-} */
+input[type="submit"]{
+width: 15%;
+}
 
-/* remember to style #hotel-names and .place */
 .rear{
     height: 100vh;
 }
@@ -79,4 +77,10 @@ em{
 img {
     width: 700px;
     height: 500px;
+}
+
+.last{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
 }
