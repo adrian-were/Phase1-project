@@ -1,67 +1,68 @@
 {
-    "hotels": [
-      {
-        "id": 1,
-        "name": "CityBlue Creekside Hotel",
-        "image": "https://dimg04.c-ctrip.com/images/0202y4215d49b380g565F_C_600_600_R5_Q70.jpg",
-        "location": "Tudor Creek, Off Nyali Bridge",
-        "phone": "0706 456233",
-        "cost": "16,140",
-        "likes": 13
-      },
-      {
-        "id": 2,
-        "name": "Sarova Whitesands Resort",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/38/b5/1d/sarova-whitesands-beach.jpg",
-        "location": "Off Malindi Road, Mombasa County",
-        "phone":"0709 111000",
-        "cost": "27,499",
-        "likes": 49
-      },
-      {
-        "id": 3,
-        "name": "Pride Inn Hotel",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/e2/e1/pny-exteriors.jpg?w=700&h=-1&s=1",
-        "location": "Maheshi Doshi Road, 2nd Avenue, Mombasa",
-        "phone": "0712 786534",
-        "cost": "12,760",
-        "likes": 17
-      },
-      {
-        "id": 4,
-        "name": "NorthCoast Beach Hotel",
-        "image": "https://isafiri.com/uploads/1477370612_Northcoast_beach.jpg",
-        "location": "Kikambala, Off Malindi Rd, Mombasa",
-        "phone": "020 2037784",
-        "cost": "10,650",
-        "likes": 23
-      },
-      {
-        "id": 5,
-        "name": "Voyager Beach Resort",
-        "image": "https://i.pinimg.com/736x/72/01/29/720129dcd0029677de4d8d7366792ecb--mombasa-resort.jpg",
-        "location": "Off Mt Kenya Road, Mombasa",
-        "phone": "020 4446651",
-        "cost": "30,423",
-        "likes": 51
-      },
-      {
-        "id": 6,
-        "name": "Bamburi Beach Hotel",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/d3/2f/exterior-view.jpg?w=700&h=-1&s=1",
-        "location": "Off Malindi Road, Mombasa County",
-        "phone": "0723 477222",
-        "cost": "25,450",
-        "likes": 45
-      },
-      {
-        "id": 7,
-        "name": "Serena Beach Resort",
-        "image": "https://image-tc.galaxy.tf/wijpeg-7x7vt4w4rjnabp0jtt61wa0nw/sokoni-plaza-atserena-beach.jpg",
-        "location": "Shanzu Beach Homes, Serena Rd, Mombasa",
-        "phone": "0732 020456",
-        "cost": "27,340",
-        "likes": 63
-      }
-    ]
+  "hotels": [
+    {
+      "id": 1,
+      "name": "CityBlue Creekside Hotel",
+      "image": "https://dimg04.c-ctrip.com/images/0202y4215d49b380g565F_C_600_600_R5_Q70.jpg",
+      "location": "Tudor Creek, Off Nyali Bridge",
+      "phone": "0706 456233",
+      "cost": "16,140"
+    },
+    {
+      "id": 2,
+      "name": "Sarova Whitesands Resort",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/38/b5/1d/sarova-whitesands-beach.jpg",
+      "location": "Off Malindi Road, Mombasa County",
+      "phone": "0709 111000",
+      "cost": "27,499"
+    },
+    {
+      "id": 3,
+      "name": "Pride Inn Hotel",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/e2/e1/pny-exteriors.jpg?w=700&h=-1&s=1",
+      "location": "Maheshi Doshi Road, 2nd Avenue, Mombasa",
+      "phone": "0712 786534",
+      "cost": "12,760"
+    },
+    {
+      "id": 4,
+      "name": "NorthCoast Beach Hotel",
+      "image": "https://isafiri.com/uploads/1477370612_Northcoast_beach.jpg",
+      "location": "Kikambala, Off Malindi Rd, Mombasa",
+      "phone": "020 2037784",
+      "cost": "10,650"
+    },
+    {
+      "id": 5,
+      "name": "Voyager Beach Resort",
+      "image": "https://i.pinimg.com/736x/72/01/29/720129dcd0029677de4d8d7366792ecb--mombasa-resort.jpg",
+      "location": "Off Mt Kenya Road, Mombasa",
+      "phone": "020 4446651",
+      "cost": "30,423"
+    },
+    {
+      "id": 6,
+      "name": "Bamburi Beach Hotel",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/d3/2f/exterior-view.jpg?w=700&h=-1&s=1",
+      "location": "Off Malindi Road, Mombasa County",
+      "phone": "0723 477222",
+      "cost": "25,450"
+    },
+    {
+      "id": 7,
+      "name": "Serena Beach Resort",
+      "image": "https://image-tc.galaxy.tf/wijpeg-7x7vt4w4rjnabp0jtt61wa0nw/sokoni-plaza-atserena-beach.jpg",
+      "location": "Shanzu Beach Homes, Serena Rd, Mombasa",
+      "phone": "0732 020456",
+      "cost": "27,340"
+    },
+    {
+      "name": "Kahama Hotel",
+      "image": "https://content.r9cdn.net/rimg/himg/40/a8/55/expediav2-795816-fac43c-452635.jpg?width=500&height=350&xhint=540&yhint=333&crop=true",
+      "location": "Majengo Mombasa, Malindi Mvita",
+      "phone": "0733 456577",
+      "cost": "22,000",
+      "id": 8
+    }
+  ]
 }
