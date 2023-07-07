@@ -42,6 +42,7 @@ input{
 
 input[type="submit"]{
 width: 15%;
+background-color: lightcyan;
 }
 
 .rear{
@@ -68,7 +69,7 @@ em{
 }
 
 #hotel-details {
-  margin-top: 50px;
+  margin-top: 40px;
   position: absolute;
   left: 35%;
   top: 40%;
