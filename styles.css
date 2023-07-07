@@ -1,71 +1,71 @@
-body{
-    background-color: darkkhaki;
-    height: fit-content;
+body {
+  background-color: darkkhaki;
+  height: fit-content;
 }
 
-header{
-    color: cornsilk;
-    text-align: center;
-    text-transform: uppercase;
-    padding: 20px;
-    background-color:darkseagreen;
-    margin-bottom: 10px;
-    font-family: 'Times New Roman', Times, serif;
+header {
+  color: cornsilk;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px;
+  background-color: darkseagreen;
+  margin-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
 }
 
-.table{
-    margin-left: 10px;
-    font-size: larger;
-    font-family: 'Courier New', Courier, monospace;
+.table {
+  margin-left: 10px;
+  font-size: larger;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .first {
-    font-size: xx-large;
-    font-weight: 800;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: xx-large;
+  font-weight: 800;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .second {
-    font-style: italic;
+  font-style: italic;
 }
 
-form{
-    margin-bottom: 25px;
+form {
+  margin-bottom: 25px;
 }
 
-input{
-    padding: 10px;
-    background-color: darksalmon;
-    border: 2px solid black;
-    border-radius: 10px;
+input {
+  padding: 10px;
+  background-color: darksalmon;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
-input[type="submit"]{
-width: 15%;
-background-color: lightcyan;
+input[type="submit"] {
+  width: 15%;
+  background-color: lightcyan;
 }
 
-.rear{
-    height: 100vh;
+.rear {
+  height: 100vh;
 }
 
 .place {
-    font-size: larger;
-    font-weight: bold;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: black;
-    width: 300px;
-    list-style: decimal;
-    padding: 15px;
+  font-size: larger;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+  width: 300px;
+  list-style: decimal;
+  padding: 15px;
 }
 
-.place:hover{
-    cursor: pointer;
-    background-color: chocolate;
+.place:hover {
+  cursor: pointer;
+  background-color: chocolate;
 }
 
-em{
-    font-weight: 800;
+em {
+  font-weight: 800;
 }
 
 #hotel-details {
@@ -76,12 +76,14 @@ em{
 }
 
 img {
-    width: 700px;
-    height: 500px;
+  width: 700px;
+  height: 500px;
 }
 
-.last{
-    text-align: center;
-    background-color: lightgoldenrodyellow;
-    padding: 10px;
+.last {
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  font-style: italic;
+  font-size: xx-large;
 }
